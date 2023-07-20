@@ -271,7 +271,9 @@ nav {
     justify-content: center;
     align-items: center;
 }
-
+.second-banner .text-section{
+    margin-right: 240px;
+}
 .second-banner .text-section h3 {
     text-align: left;
     font-family: Work Sans;
