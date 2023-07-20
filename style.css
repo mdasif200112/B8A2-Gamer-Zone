@@ -270,6 +270,9 @@ nav {
 .second-banner .text-section{
     margin-right: 240px;
 }
+.second-banner .img-section{
+    margin-right: 240px;
+}
 .second-banner .text-section h3 {
     text-align: left;
     font-family: Work Sans;
@@ -519,6 +522,7 @@ nav {
     .right-section img {
         margin-right: 0;
         width: 80%;
+        margin-bottom: 50px;
     }
 
     .left-section {
@@ -596,7 +600,9 @@ nav {
         width: 250px;
         height: 350px;
     }
-
+    .second-banner .img-section{
+        margin-right: 0;
+    }
     /* game style section */
     .game-section {
         display: grid;
