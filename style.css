@@ -782,7 +782,9 @@ nav {
         height: 500px;
 
     }
-
+    .second-banner .img-section{
+        margin-right: 0;
+    }
     /* game style section */
     .game-section {
         display: grid;
